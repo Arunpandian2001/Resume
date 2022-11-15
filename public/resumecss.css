@@ -1,0 +1,91 @@
+@charset "UTF-8";
+.photo img{
+	
+   float: right;
+    height: 152px;
+    margin-right: 0.5%;
+    margin-top: -13.6%;
+}
+
+.name{
+	font-size: 5em;
+    margin-left: 8%;
+    padding: 3%;
+    border-bottom: #dbd6d6;
+}
+.address{
+	font-size: 1.3em;
+    width: 99%;
+    color: black;
+    margin-left: -8%;
+}
+.address li{
+	font-size: 0.9em;
+	list-style-type:none;
+	margin-left: -5%;
+}
+h4{
+	font-size: 1.4em;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+    font-weight: 500;
+    color: #2b6383;
+}
+h5{
+	font-size: 1.2em;
+    margin-block-start: 0.4em;
+    margin-block-end: 0.4em;
+    font-weight: 500;
+}
+p{
+	font-size: 1.1em;
+    margin-block-start: 0.8em;
+    margin-block-end: 0.8em;
+}
+li{
+	font-size:1.1em;
+	margin-left:-2%;
+}
+.part1{
+	float: left;
+    width: 30%;
+    background-color: #c7c7c7;
+    padding-left: 2%;
+    height: 110vh;
+}
+.part2{
+	float: left;
+    width: 64%;
+    padding-left: 2%;
+}
+.container{
+	background-color: #254252;
+    color: #dbd6d6;
+    padding-bottom: 1%;
+}
+
+.languages table{
+	width: 100%;
+}
+activities li{
+	margin-left:2%;
+}
+.education table{
+	border: 1px solid black;
+    width: 93%;
+    text-align: center;
+    height: 16vh;
+}
+.education td{
+		border: 1px solid black;
+		font-size: 1em;
+}
+.education tr{
+		border: 1px solid black;
+}
+.education thead{
+	font-size:1.2em;
+}
+.bodycontainer{
+	height:110vh;
+}
